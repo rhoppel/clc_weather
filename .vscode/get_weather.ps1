@@ -1,0 +1,1 @@
+scrapy runspider --nolog -o - -t json weather.py  
